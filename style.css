@@ -1,0 +1,45 @@
+body {
+  background-color: orangered
+}
+h1{
+  color:blanchedalmond
+}
+a:link {
+  color:white;
+}  
+a:visited {
+  color: white;
+}
+a:hover {
+  color: black;
+}
+div.ex1 {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;
+}
+h1 {
+  font-size: 60px;
+}
+a:link{
+  font-size: 30;
+}
+h2{
+  color:white
+}
+h2{
+  font-size: 100;
+}
+table {
+  width: 150px;
+}
+
+th {
+  height: 150px;
+}
+th{
+  font-size: 80px;
+}
+table {
+  font-size: 70px;
+}
